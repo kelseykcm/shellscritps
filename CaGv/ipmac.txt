@@ -1,0 +1,18 @@
+Host is up (0.12s latency).
+MAC Address: 5C:64:8E:1C:3B:A0 (Unknown)
+Host is up (0.19s latency).
+MAC Address: 52:F1:A6:59:D1:62 (Unknown)
+Host is up.
+Nmap done: 256 IP addresses (3 hosts up) scanned in 14.29 seconds
+Nmap scan report for home (192.168.0.1)
+Host is up (0.0057s latency).
+MAC Address: 5C:64:8E:1C:3B:A0 (Unknown)
+Nmap scan report for 192.168.0.182
+Host is up (0.33s latency).
+MAC Address: 50:92:B9:4A:CD:34 (Samsung Electronics)
+Nmap scan report for 192.168.0.235
+Host is up (0.40s latency).
+MAC Address: 52:F1:A6:59:D1:62 (Unknown)
+Nmap scan report for kalilinux.home (192.168.0.72)
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 64.78 seconds

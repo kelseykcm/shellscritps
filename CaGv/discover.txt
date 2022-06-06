@@ -1,0 +1,13 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2022-03-13 20:08 -03
+Nmap scan report for 192.168.0.1
+Host is up (0.029s latency).
+MAC Address: CC:32:E5:0D:9F:D5 (Tp-link Technologies)
+Nmap scan report for 192.168.0.101
+Host is up.
+MAC Address: CC:A2:19:D4:B5:41 (Shenzhen Along Investment)
+Nmap scan report for 192.168.0.103
+Host is up.
+MAC Address: D8:13:99:86:D6:CD (Hui Zhou Gaoshengda Technology)
+Nmap scan report for 192.168.0.108
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 10.17 seconds

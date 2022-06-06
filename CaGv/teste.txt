@@ -1,0 +1,20 @@
+
+
+Starting Nmap 7.91 ( https://nmap.org ) at 2022-03-13 19:24 -03
+Stats: 0:00:04 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
+Parallel DNS resolution of 4 hosts. Timing: About 25.00% done; ETC: 19:25 (0:00:06 remaining)
+Nmap scan report for 192.168.0.1
+Host is up (0.0071s latency).
+MAC Address: CC:32:E5:0D:9F:D5 (Tp-link Technologies)
+Nmap scan report for 192.168.0.103
+Host is up (0.23s latency).
+MAC Address: D8:13:99:86:D6:CD (Hui Zhou Gaoshengda Technology)
+Nmap scan report for 192.168.0.104
+Host is up (0.23s latency).
+MAC Address: 60:23:A4:C4:02:B7 (SichuanAI-LinkTechnologyCo.)
+Nmap scan report for 192.168.0.105
+Host is up (0.18s latency).
+MAC Address: FA:28:3E:7A:7E:60 (Unknown)
+Nmap scan report for 192.168.0.108
+Host is up.
+Nmap done: 256 IP addresses (5 hosts up) scanned in 16.55 seconds
